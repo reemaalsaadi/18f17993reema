@@ -1,6 +1,8 @@
-int a,b ,d
+int a,b ,d,f
 read a 
 sum = a+b 
 print sum 
 D = a*B
 print D
+f= a-d 
+Print f
